@@ -138,6 +138,7 @@ plt.show()
 
 #### Results
 ![Salary Distribuitons of Data Jobs in the US](3_Project/images/salary_boxplot.png)
+
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
@@ -161,6 +162,7 @@ plt.show()
 ```
 
 ![The Highest Paid & Most In-Demand Skills for Data Engineers in the US](3_Project/images/Highest_Paid_and_Most_In_Demand_Skills_for_Data_Engineers_in_the_US.png)
+
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data engineers in the US.*
 
 #### Insights:
@@ -189,6 +191,7 @@ plt.show()
 
 #### Results
 ![Most Optimal Skills for Data Engineers in the US](3_Project\images\Most_Optimal_Skills_for_Data_Engineers_in_the_US_with_Coloring_by_Technology.png)
+
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data engineers in the US.*
 
 #### Insights
